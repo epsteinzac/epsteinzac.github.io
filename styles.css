@@ -1,0 +1,59 @@
+#name {
+    color: red;
+}
+#title {
+    text-align:center;
+}
+.background {
+    background-image: url("/download.jpg");
+    background-size: cover;
+    width: 1910px;
+    height: 800px;
+}
+#essayHeading {
+    text-align:center;
+    font-family:"Times New Roman", Times, serif;
+    margin-top:20px;
+}
+#one {
+    text-align:center;
+    margin-right:250px;
+    margin-left:250px;
+    margin-top:50px;
+    font-family:"Times New Roman", Times, serif;
+    font-size:20px;
+}
+#two {
+    text-align:center;
+    margin-right:250px;
+    margin-left:250px;
+    margin-top:50px;
+    font-family:"Times New Roman", Times, serif;
+    font-size:20px;
+}
+#three {
+    text-align:center;
+    margin-right:250px;
+    margin-left:250px;
+    margin-top:50px;
+    font-family:"Times New Roman", Times, serif;
+    font-size:20px;
+}
+#four {
+    text-align:center;
+    margin-right:250px;
+    margin-left:250px;
+    margin-top:50px;
+    font-family:"Times New Roman", Times, serif;
+    font-size:20px;
+}
+#blurbOne {
+    text-align:center;
+    margin-top:30px;
+    font-size:20px;
+}
+#blurbTwo {
+    text-align:center;
+    margin-top:30px;
+    font-size:20px;
+}
